@@ -27,7 +27,7 @@ It analyzes hackathon submissions (project description, screenshots, and support
 ## Installation
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/preetishnithi/AI-Hackathon-Judge.git
+   git clone https://github.com/user-name/AI-Hackathon-Judge.git
    cd AI-Hackathon-Judge
    ```
 2. **Install dependencies:**
