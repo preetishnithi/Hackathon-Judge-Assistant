@@ -49,4 +49,3 @@ It analyzes hackathon submissions (project description, screenshots, and support
 - Upload your PDF document.
 - Click **Analyze Project** to get AI-generated scores and feedback.
 
----
